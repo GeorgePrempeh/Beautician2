@@ -135,9 +135,9 @@ The website is designed to be easily customisable:
 - **Email**: info@beautydecor.com
 - **Address**: 123 Beauty Street, London, SW1A 1AA
 - **Hours**:
-  - Mon-Fri: 9AM-7PM
-  - Sat: 9AM-6PM
-  - Sun: 10AM-5PM
+  - Mon-Fri: 9am-7pm
+  - Sat: 9am-6pm
+  - Sun: 10am-5pm
 
 ## 🌟 Ready for Business
 
