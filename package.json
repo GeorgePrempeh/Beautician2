@@ -1,0 +1,37 @@
+{
+  "name": "beauty-decor-website",
+  "version": "1.0.0",
+  "description": "Professional beautician website for Beauty Decor - offering hair, skin, nail, and makeup services",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000 || python3 -m http.server 8000 || npx http-server",
+    "dev": "python -m http.server 8000",
+    "build": "echo 'Build completed - static website ready for deployment'",
+    "deploy": "echo 'Ready for deployment to web server'"
+  },
+  "keywords": [
+    "beauty",
+    "beautician",
+    "salon",
+    "hair",
+    "makeup",
+    "skincare",
+    "nails",
+    "spa"
+  ],
+  "author": "Beauty Decor Team",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "homepage": ".",
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
