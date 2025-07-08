@@ -5,12 +5,14 @@ Welcome to Beauty Decor! Founded in 2022, we offer personalised hair, skin, nail
 ## 🌸 Website Features
 
 ### ✨ Modern & Elegant Design
+
 - **Luxurious gold and cream colour scheme** with professional aesthetics
 - **Responsive design** that works perfectly on desktop, tablet, and mobile
 - **Smooth animations** and elegant hover effects
 - **Professional typography** using Playfair Display and Lato fonts
 
 ### 🎯 Key Sections
+
 - **Hero Section** - Eye-catching introduction with call-to-action buttons
 - **About Us** - Company story with impressive statistics
 - **Services** - Complete overview of all beauty services with pricing
@@ -20,6 +22,7 @@ Welcome to Beauty Decor! Founded in 2022, we offer personalised hair, skin, nail
 - **Booking System** - Interactive appointment booking modal
 
 ### 🛠️ Interactive Features
+
 - **Mobile-responsive navigation** with hamburger menu
 - **Smooth scrolling** between sections
 - **Contact form** with validation
@@ -28,19 +31,23 @@ Welcome to Beauty Decor! Founded in 2022, we offer personalised hair, skin, nail
 - **Loading animations** and scroll effects
 
 ### 💄 Services Offered
+
 1. **Hair Services** (£45+)
+
    - Haircuts & Styling
    - Hair Colouring
    - Hair Treatments
    - Blowouts
 
 2. **Skin Care** (£65+)
+
    - Facial Treatments
    - Anti-Aging Care
    - Acne Treatment
    - Chemical Peels
 
 3. **Nail Care** (£35+)
+
    - Manicures
    - Pedicures
    - Gel Polish
@@ -57,12 +64,15 @@ Welcome to Beauty Decor! Founded in 2022, we offer personalised hair, skin, nail
 ### Running the Website Locally
 
 1. **Using Python** (recommended):
+
    ```bash
    python -m http.server 8000
    ```
+
    Then open http://localhost:8000 in your browser
 
 2. **Using VS Code Task**:
+
    - Press `Ctrl+Shift+P`
    - Type "Tasks: Run Task"
    - Select "Start Beauty Decor Website"
@@ -74,6 +84,7 @@ Welcome to Beauty Decor! Founded in 2022, we offer personalised hair, skin, nail
    ```
 
 ### File Structure
+
 ```
 Beautician2/
 ├── index.html          # Main HTML file
@@ -94,6 +105,7 @@ Beautician2/
 ## 📱 Mobile Responsive
 
 The website is fully responsive and includes:
+
 - Collapsible mobile navigation
 - Touch-friendly buttons and forms
 - Optimized layouts for all screen sizes
@@ -122,7 +134,7 @@ The website is designed to be easily customisable:
 - **Phone**: 020 7123 4567
 - **Email**: info@beautydecor.com
 - **Address**: 123 Beauty Street, London, SW1A 1AA
-- **Hours**: 
+- **Hours**:
   - Mon-Fri: 9AM-7PM
   - Sat: 9AM-6PM
   - Sun: 10AM-5PM
@@ -130,6 +142,7 @@ The website is designed to be easily customisable:
 ## 🌟 Ready for Business
 
 This website is production-ready and includes:
+
 - Professional business presentation
 - Online booking capability
 - Contact forms
@@ -141,4 +154,4 @@ Perfect for any beauty salon, spa, or independent beautician looking to establis
 
 ---
 
-*Built with 💖 for enhancing natural beauty*
+_Built with 💖 for enhancing natural beauty_
